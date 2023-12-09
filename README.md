@@ -1,6 +1,6 @@
 # Ion Assets
 
-A collection of free, copyright-clear, and royalty-free sound effects used as samples for [Ion](github.com/gbaptista/ion), courtesy of:
+A collection of free, copyright-clear, and royalty-free sound effects used as samples for [Ion](https://github.com/gbaptista/ion), courtesy of:
 
 - Creator Assets:
     - https://creatorassets.com
